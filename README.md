@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on 2D platformer about fishing
-- 📫 How to reach me gmail: grraff1230@gmail.com or telegram: @IProroIK
+- 📫 How to reach me telegram: @Ego_exe
 
 <!---
 IProroIK/IProroIK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
