@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @IProroIK
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on 2D platformer about fishing
+- 👀 I’m Unity Game Developer
+
 - 📫 How to reach me telegram: @Ego_exe
 
 <!---
